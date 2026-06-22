@@ -20,9 +20,6 @@ mini-calculator/
 ```
 
 ---
-
-## ▶️ How to Run
-Clone the repository: https://rishwanththota.github.io/Mini_Calculator/
 ## 💡 How It Works
 
 * The UI is designed using **CSS Grid layout**.
@@ -36,4 +33,3 @@ Clone the repository: https://rishwanththota.github.io/Mini_Calculator/
 ---
 ## 🌐 Live Demo :
 https://rishwanththota.github.io/Mini_Calculator/
----
